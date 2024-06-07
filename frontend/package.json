@@ -8,6 +8,7 @@
     "buffer": "^6.0.3",
     "common": "^0.2.5",
     "cors": "^2.8.5",
+    "cross-spawn": "^7.0.3",
     "express": "^4.19.2",
     "flask": "^0.2.10",
     "ipaddr.js": "^2.2.0",
